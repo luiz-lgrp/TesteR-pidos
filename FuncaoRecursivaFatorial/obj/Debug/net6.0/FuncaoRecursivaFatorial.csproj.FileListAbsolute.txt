@@ -1,0 +1,15 @@
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\bin\Debug\net6.0\FuncaoRecursivaFatorial.exe
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\bin\Debug\net6.0\FuncaoRecursivaFatorial.deps.json
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\bin\Debug\net6.0\FuncaoRecursivaFatorial.runtimeconfig.json
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\bin\Debug\net6.0\FuncaoRecursivaFatorial.dll
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\bin\Debug\net6.0\FuncaoRecursivaFatorial.pdb
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.csproj.AssemblyReference.cache
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.AssemblyInfoInputs.cache
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.AssemblyInfo.cs
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.csproj.CoreCompileInputs.cache
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.dll
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\refint\FuncaoRecursivaFatorial.dll
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.pdb
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\FuncaoRecursivaFatorial.genruntimeconfig.cache
+C:\C#\TestesRapidos\FuncaoRecursivaFatorial\obj\Debug\net6.0\ref\FuncaoRecursivaFatorial.dll
