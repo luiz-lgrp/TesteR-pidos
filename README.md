@@ -3,15 +3,18 @@
 
 <p>Testes de Lógica de Programação!</i> </p>
 <br>
-<p>Bingo</p>
-<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/1Bingo.png" height="250" width="500" />
-<p>ListaBrasilMundo</p>
-<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/2listas.png" height="250" width="500" />
-<p>Meses</p>
-<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/3meses.png" height="250" width="500" />
 
-<p>FuncaoRecursivaFatorial</p>
-<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/4fatorial.png" height="250" width="500" />
+### Bingo
+<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/1Bingo.png" height="250" width="500" />
+
+### ListaBrasilMundo
+<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/2listas.png" height="500" width="650" />
+
+### Meses
+<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/3meses.png" height="250" width="600" />
+
+### FuncaoRecursivaFatorial
+<img src="https://github.com/luiz-lgrp/TesteR-pidos/blob/main/img/4fatorial.png" height="500" width="600" />
 <br>
 
 ## :desktop_computer: Tecnologias utilizadas
