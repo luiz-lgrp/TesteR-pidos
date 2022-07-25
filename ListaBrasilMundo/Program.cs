@@ -59,9 +59,6 @@ foreach (var result in listW)
 Console.ReadKey();
 
 
-
-
-
 class Brazil
 {
     public string Place { get; set; }
